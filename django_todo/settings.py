@@ -26,7 +26,7 @@ SECRET_KEY = 'postgres://zltmtsjbttdbcq:37b48524f16252bc0d7d18dea292b8d7413d1420
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://elippsis-django-todo-app.herokuapp.com']
+ALLOWED_HOSTS = ['elippsis-django-todo-app.herokuapp.com']
 
 
 # Application definition
