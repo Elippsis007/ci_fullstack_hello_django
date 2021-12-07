@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4*%=u9@lcguqm90(dd&)m3b4#^)=rjve%(esi5i%oo9f=+&hd_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://elippsis-django-todo-app.herokuapp.com']
 
 
 # Application definition
